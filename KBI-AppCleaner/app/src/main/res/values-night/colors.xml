@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#1E3A9E</color>
+    <color name="brand_soft">#1B2133</color>
+    <color name="badge_game_bg">#173A24</color>
+    <color name="badge_game_fg">#7BE0A0</color>
+    <color name="badge_likely_bg">#3D2E10</color>
+    <color name="badge_likely_fg">#FFC870</color>
+    <color name="badge_danger_bg">#45191B</color>
+    <color name="badge_danger_fg">#FF9C9C</color>
+    <color name="badge_other_bg">#2A2E37</color>
+    <color name="badge_other_fg">#C5CAD3</color>
+    <color name="badge_new_bg">#1F2C55</color>
+    <color name="badge_new_fg">#A9C0FF</color>
+</resources>

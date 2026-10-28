@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#2F5BEA</color>
+    <color name="brand_soft">#EEF2FF</color>
+    <color name="accent">#FF8A00</color>
+    <color name="delete_button">#E5383B</color>
+    <color name="icon_bg">#2F5BEA</color>
+
+    <color name="badge_game_bg">#DCF5E3</color>
+    <color name="badge_game_fg">#17803D</color>
+    <color name="badge_likely_bg">#FFF1D6</color>
+    <color name="badge_likely_fg">#9A5B00</color>
+    <color name="badge_danger_bg">#FFE0E0</color>
+    <color name="badge_danger_fg">#C21E1E</color>
+    <color name="badge_other_bg">#ECEEF2</color>
+    <color name="badge_other_fg">#4A5160</color>
+    <color name="badge_new_bg">#E0EAFF</color>
+    <color name="badge_new_fg">#2F5BEA</color>
+</resources>
